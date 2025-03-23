@@ -2,7 +2,9 @@
 
 本项目是第6章到第13章，采用大模型翻译，markdown格式。
 
-第1章到第5章（1-5）: https://github.com/doubleheiker/algorithmic-foundation-of-dp-zh-cn.git
+第1章到第5章（项目1）: https://github.com/doubleheiker/algorithmic-foundation-of-dp-zh-cn.git
+
+第1章到第5章（项目2）: https://github.com/guoJohnny/algorithmic-foundation-of-dp-zh-cn
 
 下面是分章节的更详细的内容（你可以下载algorithmic-foundation-of-dp-zh-cn中唯一的文件，获得下述所有内容）：
 
