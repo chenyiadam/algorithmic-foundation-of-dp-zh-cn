@@ -4,7 +4,8 @@
 
 第1章到第5章（1-5）: https://github.com/doubleheiker/algorithmic-foundation-of-dp-zh-cn.git
 
-更详细的内容：
+下面是分章节的更详细的内容（你可以下载algorithmic-foundation-of-dp-zh-cn中唯一的文件，获得下述所有内容）：
+
 第1章：[https://blog.csdn.net/AdamCY888/article/details/146454841](https://blog.csdn.net/AdamCY888/article/details/146454841)
 
 第2章:[https://blog.csdn.net/AdamCY888/article/details/146455093](https://blog.csdn.net/AdamCY888/article/details/146455093)
